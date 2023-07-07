@@ -22,12 +22,14 @@ DoS Attack Simulation and Mitigation using NS2 is a research project that invest
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/DoS-Attack-NS2.git
+git clone https://github.com/Madhav-Sai/Dos-Ns2.git
 
 
 2. Install NS2: Follow the instructions provided by the NS2 documentation to install NS2 on your system.
+3. sudo apt install ns2
+4. sudo apt install nam 
 
-3. Install any required dependencies or libraries specified in the project's documentation.
+5. Install any required dependencies or libraries specified in the project's documentation.
 
 ## Usage
 1. Configure the network parameters and attack scenarios in the NS2 configuration files.
