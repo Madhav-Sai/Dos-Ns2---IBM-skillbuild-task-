@@ -35,7 +35,8 @@ git clone https://github.com/Madhav-Sai/Dos-Ns2.git
 1. Configure the network parameters and attack scenarios in the NS2 configuration files.
 
 2. Run the simulation using the appropriate NS2 command:
-ns dos.tcl
+ 
+ ns dos.tcl
 
 
 3. Analyze the simulation results, including network performance metrics and attack effects.
